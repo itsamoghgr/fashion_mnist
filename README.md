@@ -19,4 +19,4 @@ Classification is done into 8 categories.
 8 Bag <br>
 9 Ankle boot <br>
 
-![[https://github.com/itsamoghgr/fashion_mnist/blob/main/fashion_mnist_data.png]]
+![portfolio-web_page-ss](https://github.com/itsamoghgr/fashion_mnist/blob/main/fashion_mnist_data.png)
