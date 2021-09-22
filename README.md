@@ -8,14 +8,14 @@ The training set consists of 60k examples and test set consists of 10k examples.
 
 Classification is done into 8 categories. 
 
-0 T-shirt/top
-1 Trouser
-2 Pullover
-3 Dress
-4 Coat
-5 Sandal
-6 Shirt
-7 Sneaker
-8 Bag
-9 Ankle boot
+0 T-shirt/top <br>
+1 Trouser <br>
+2 Pullover <br>
+3 Dress <br>
+4 Coat <br>
+5 Sandal <br>
+6 Shirt <br>
+7 Sneaker <br>
+8 Bag <br>
+9 Ankle boot <br>
 
