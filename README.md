@@ -1,4 +1,4 @@
-#Fashion Mnist Data Classification
+# Fashion Mnist Data Classification
 ----
 
 I have built a simple convoluation neural network (CNN) using tensorflow (TF) to classify Fashion-MNIST dataset. 
